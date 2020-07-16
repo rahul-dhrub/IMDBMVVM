@@ -15,13 +15,6 @@ public final class movieActivity extends androidx.appcompat.app.AppCompatActivit
     public static final com.example.imdbmvvm.view.movieActivity.Companion Companion = null;
     private java.util.HashMap _$_findViewCache;
     
-    /**
-     * //Consider this, if you need to call the service once when activity was created.
-     *        Log.v(TAG,"savedInstanceState $savedInstanceState")
-     *        if(savedInstanceState==null){
-     *            viewModel.loadmovies()
-     *        }
-     */
     @java.lang.Override()
     protected void onCreate(@org.jetbrains.annotations.Nullable()
     android.os.Bundle savedInstanceState) {
@@ -30,20 +23,6 @@ public final class movieActivity extends androidx.appcompat.app.AppCompatActivit
     private final void setupUI() {
     }
     
-    /**
-     * //Consider this if ViewModel class don't require parameters.
-     *        viewModel = ViewModelProviders.of(this).get(movieViewModel::class.java)
-     *
-     *        //if you require any parameters to  the ViewModel consider use a ViewModel Factory
-     *        //viewModel = ViewModelProviders.of(this,ViewModelFactory(Injection.providerRepository())).get(movieViewModel::class.java)
-     *        viewModel = ViewModelProvider(this,Injection.provideViewModelFactory()).get(movieViewModel::class.java)
-     *
-     *        //Anonymous observer implementation
-     *        viewModel.movies.observe(this,Observer<List<movie>> {
-     *            Log.v("CONSOLE", "data updated $it")
-     *            adapter.update(it)
-     *        })
-     */
     private final void setupViewModel() {
     }
     
