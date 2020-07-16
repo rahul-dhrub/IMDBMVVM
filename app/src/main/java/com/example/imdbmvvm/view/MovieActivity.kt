@@ -23,13 +23,6 @@ class movieActivity : AppCompatActivity() {
         const val TAG= "CONSOLE"
     }
 
-    /**
-     //Consider this, if you need to call the service once when activity was created.
-        Log.v(TAG,"savedInstanceState $savedInstanceState")
-        if(savedInstanceState==null){
-            viewModel.loadmovies()
-        }
-     */
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_movie)
@@ -38,32 +31,13 @@ class movieActivity : AppCompatActivity() {
         setupUI()
     }
 
-    //ui
     private fun setupUI(){
         adapter= movieAdapter(viewModel.movies.value?: emptyList())
         recyclerView.layoutManager= LinearLayoutManager(this)
         recyclerView.adapter= adapter
     }
-
-    //viewmodel
-    /**
-        //Consider this if ViewModel class don't require parameters.
-        viewModel = ViewModelProviders.of(this).get(movieViewModel::class.java)
-
-        //if you require any parameters to  the ViewModel consider use a ViewModel Factory
-        //viewModel = ViewModelProviders.of(this,ViewModelFactory(Injection.providerRepository())).get(movieViewModel::class.java)
-        viewModel = ViewModelProvider(this,Injection.provideViewModelFactory()).get(movieViewModel::class.java)
-
-        //Anonymous observer implementation
-        viewModel.movies.observe(this,Observer<List<movie>> {
-            Log.v("CONSOLE", "data updated $it")
-            adapter.update(it)
-        })
-     */
     private fun setupViewModel(){
         viewModel = ViewModelProvider(this,Injection.provideViewModelFactory()).get(movieViewModel::class.java)
-        //viewModel = ViewModelProvider(this,ViewModelFactory(Injection.providerRepository())).get(movieViewModel::class.java)
-        //viewModel = ViewModelProviders.of(this,ViewModelFactory(Injection.providerRepository())).get(movieViewModel::class.java)
         viewModel.movies.observe(this,rendermovies)
 
         viewModel.isViewLoading.observe(this,isViewLoadingObserver)

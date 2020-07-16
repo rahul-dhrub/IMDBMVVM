@@ -2,7 +2,6 @@ package com.example.imdbmvvm.model
 
 import java.io.Serializable
 
-//data class Movie(val id: Int, val name: String, val date: String, val photo: String) : Serializable
 data class Movie(
     val popularity: Double,
     val vote_count: Int,

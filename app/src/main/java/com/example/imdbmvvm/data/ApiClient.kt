@@ -9,8 +9,6 @@ import retrofit2.http.GET
 
 object ApiClient {
 
-    //https://obscure-earth-55790.herokuapp.com/api/movies
-//    private val API_BASE_URL = "https://obscure-earth-55790.herokuapp.com"
     private val API_BASE_URL = "https://api.themoviedb.org"
 
     private var servicesApiInterface:ServicesApiInterface?=null

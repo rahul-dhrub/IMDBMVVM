@@ -21,14 +21,6 @@ class movieViewModel(private val repository: movieDataSource):ViewModel() {
     private val _isEmptyList=MutableLiveData<Boolean>()
     val isEmptyList:LiveData<Boolean> = _isEmptyList
 
-    /*
-    If you require that the data be loaded only once, you can consider calling the method
-    "loadmovies()" on constructor. Also, if you rotate the screen, the service will not be called.
-
-    init {
-        //loadmovies()
-    }
-     */
 
     fun loadmovies(){
         _isViewLoading.postValue(true)
