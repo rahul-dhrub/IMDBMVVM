@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/73817c48b231d86a35bd8861da51be8e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/core-ktx-1.2.0.aar/6ccfd6ffd4c888b3abac97dba3c3d79a/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/66244d753cb29f2cdcc50b71aef941b7/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0.aar/af9ca212c4e2b0a30a4153e207ef9a3e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/7caa267a31facca541dcf09bf6d542d5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.2.0.aar/59cd3cfa7edfaf598b83e69205ee7f36/AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/dd52fb366bf083043e54ef534f76775f/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/adfa40bab97bb910cc5b29c7f962b356/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/053c2de77ec296b2fd477dab53f1b23a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/f94bc6cc11cf5755cb3c2a6d8ac713e6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/fragment-1.2.0.aar/5a124a4c4a1fa3be50f406a6d5692cec/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/8328861e8224f42232e61f20cc69f1a4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/f1c62b0dd9df725935a124cfab2b6ad5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/cd3014e0268ae4e6820255e11eb0672d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/7b0dfedb5931dbad1086d31495868dd7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/e22cfa5ee004580bbafe264c3d5c01ae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/activity-1.1.0.aar/b85c253a442f419e81069cba3f140fbb/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/core-1.2.0.aar/7f412057bcfc1b1b4561514ec06cff0f/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.2.0.aar/89630c653cc0a22e233080cadc4e46d2/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.2.0.aar/000ca11aac5e9545f15f8e1883c13ea1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/9d4731f305d37ffd6f9d241c2ade9f7b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.2.0.aar/ef9cebd96d521ff1d4b4ee095777372e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-savedstate-1.0.0.aar/0e44ce61ac542c5f146cd109b6699e8c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.2.0.aar/03a4033a32e3fc8da1cac4fed210388e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/core-runtime-2.1.0.aar/be77a339061bd12fddc82ce70a839dd9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/b281980128a0274bc649ef66636cb683/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.2.0.aar/2ff26f15800924bb0da99024493d89f3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/11839e64cca60ccc1351cba9a1199a3a/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/e1b256f03e5b099b09c3373ecefe74ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/84d76f431723e2eb32a2169ed979a853/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml:3:11-41
+		INJECTED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml:6:5-21:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/66244d753cb29f2cdcc50b71aef941b7/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/66244d753cb29f2cdcc50b71aef941b7/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.2.0.aar/59cd3cfa7edfaf598b83e69205ee7f36/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.2.0.aar/59cd3cfa7edfaf598b83e69205ee7f36/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/dd52fb366bf083043e54ef534f76775f/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/dd52fb366bf083043e54ef534f76775f/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/core-1.2.0.aar/7f412057bcfc1b1b4561514ec06cff0f/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/core-1.2.0.aar/7f412057bcfc1b1b4561514ec06cff0f/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.2.0.aar/89630c653cc0a22e233080cadc4e46d2/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.2.0.aar/89630c653cc0a22e233080cadc4e46d2/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/11839e64cca60ccc1351cba9a1199a3a/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/11839e64cca60ccc1351cba9a1199a3a/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/84d76f431723e2eb32a2169ed979a853/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/84d76f431723e2eb32a2169ed979a853/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/core-1.2.0.aar/7f412057bcfc1b1b4561514ec06cff0f/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml:11:13-39
+	android:label
+		ADDED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml:9:13-45
+	android:roundIcon
+		ADDED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml:10:13-58
+	android:icon
+		ADDED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml:8:13-47
+	android:allowBackup
+		ADDED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml:7:13-39
+	android:theme
+		ADDED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml:13:13-44
+	android:networkSecurityConfig
+		ADDED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml:12:13-73
+activity#com.example.imdbmvvm.view.movieActivity
+ADDED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml:14:19-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml:16:17-68
+	android:name
+		ADDED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/73817c48b231d86a35bd8861da51be8e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/73817c48b231d86a35bd8861da51be8e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/core-ktx-1.2.0.aar/6ccfd6ffd4c888b3abac97dba3c3d79a/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/core-ktx-1.2.0.aar/6ccfd6ffd4c888b3abac97dba3c3d79a/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/66244d753cb29f2cdcc50b71aef941b7/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/66244d753cb29f2cdcc50b71aef941b7/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0.aar/af9ca212c4e2b0a30a4153e207ef9a3e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0.aar/af9ca212c4e2b0a30a4153e207ef9a3e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/7caa267a31facca541dcf09bf6d542d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/7caa267a31facca541dcf09bf6d542d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.2.0.aar/59cd3cfa7edfaf598b83e69205ee7f36/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.2.0.aar/59cd3cfa7edfaf598b83e69205ee7f36/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/dd52fb366bf083043e54ef534f76775f/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/dd52fb366bf083043e54ef534f76775f/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/adfa40bab97bb910cc5b29c7f962b356/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/adfa40bab97bb910cc5b29c7f962b356/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/053c2de77ec296b2fd477dab53f1b23a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/053c2de77ec296b2fd477dab53f1b23a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/f94bc6cc11cf5755cb3c2a6d8ac713e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/f94bc6cc11cf5755cb3c2a6d8ac713e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/fragment-1.2.0.aar/5a124a4c4a1fa3be50f406a6d5692cec/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/fragment-1.2.0.aar/5a124a4c4a1fa3be50f406a6d5692cec/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/8328861e8224f42232e61f20cc69f1a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/8328861e8224f42232e61f20cc69f1a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/f1c62b0dd9df725935a124cfab2b6ad5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/f1c62b0dd9df725935a124cfab2b6ad5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/cd3014e0268ae4e6820255e11eb0672d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/cd3014e0268ae4e6820255e11eb0672d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/7b0dfedb5931dbad1086d31495868dd7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/7b0dfedb5931dbad1086d31495868dd7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/e22cfa5ee004580bbafe264c3d5c01ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/e22cfa5ee004580bbafe264c3d5c01ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/activity-1.1.0.aar/b85c253a442f419e81069cba3f140fbb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/activity-1.1.0.aar/b85c253a442f419e81069cba3f140fbb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/core-1.2.0.aar/7f412057bcfc1b1b4561514ec06cff0f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/core-1.2.0.aar/7f412057bcfc1b1b4561514ec06cff0f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.2.0.aar/89630c653cc0a22e233080cadc4e46d2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.2.0.aar/89630c653cc0a22e233080cadc4e46d2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.2.0.aar/000ca11aac5e9545f15f8e1883c13ea1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.2.0.aar/000ca11aac5e9545f15f8e1883c13ea1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/9d4731f305d37ffd6f9d241c2ade9f7b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/9d4731f305d37ffd6f9d241c2ade9f7b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.2.0.aar/ef9cebd96d521ff1d4b4ee095777372e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.2.0.aar/ef9cebd96d521ff1d4b4ee095777372e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-savedstate-1.0.0.aar/0e44ce61ac542c5f146cd109b6699e8c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-savedstate-1.0.0.aar/0e44ce61ac542c5f146cd109b6699e8c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.2.0.aar/03a4033a32e3fc8da1cac4fed210388e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.2.0.aar/03a4033a32e3fc8da1cac4fed210388e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/core-runtime-2.1.0.aar/be77a339061bd12fddc82ce70a839dd9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/core-runtime-2.1.0.aar/be77a339061bd12fddc82ce70a839dd9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/b281980128a0274bc649ef66636cb683/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/b281980128a0274bc649ef66636cb683/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.2.0.aar/2ff26f15800924bb0da99024493d89f3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.2.0.aar/2ff26f15800924bb0da99024493d89f3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/11839e64cca60ccc1351cba9a1199a3a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/11839e64cca60ccc1351cba9a1199a3a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/e1b256f03e5b099b09c3373ecefe74ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/e1b256f03e5b099b09c3373ecefe74ca/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/84d76f431723e2eb32a2169ed979a853/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/84d76f431723e2eb32a2169ed979a853/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rahuldhrub/Desktop/IMDBMVVM/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.2.0.aar/89630c653cc0a22e233080cadc4e46d2/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.2.0.aar/89630c653cc0a22e233080cadc4e46d2/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.2.0.aar/89630c653cc0a22e233080cadc4e46d2/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.2.0.aar/89630c653cc0a22e233080cadc4e46d2/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/rahuldhrub/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.2.0.aar/89630c653cc0a22e233080cadc4e46d2/AndroidManifest.xml:26:13-79
